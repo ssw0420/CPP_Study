@@ -1,0 +1,7 @@
+﻿  main1_6.cpp
+C:\Users\user\Documents\GitHub\CPP_Study\Chapter1_1\Chapter1_6\main1_6.cpp(11,6): warning C4101: '_apples': unreferenced local variable
+C:\Users\user\Documents\GitHub\CPP_Study\Chapter1_1\Chapter1_6\main1_6.cpp(10,6): warning C4101: 'n_apples': unreferenced local variable
+C:\Users\user\Documents\GitHub\CPP_Study\Chapter1_1\Chapter1_6\main1_6.cpp(12,6): warning C4101: 'nApples': unreferenced local variable
+  Chapter1_6.vcxproj -> C:\Users\user\Documents\GitHub\CPP_Study\Chapter1_1\x64\Debug\Chapter1_6.exe
+  'pwsh.exe'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+  배치 파일이 아닙니다.
