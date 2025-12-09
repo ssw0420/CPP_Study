@@ -1,0 +1,5 @@
+﻿  main_3_1.cpp
+C:\Users\user\Documents\GitHub\CPP_Study\Section4\Chapter_3_1\main_3_1.cpp(33,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Chapter_3_1.vcxproj -> C:\Users\user\Documents\GitHub\CPP_Study\Section4\x64\Debug\Chapter_3_1.exe
+  'pwsh.exe'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+  배치 파일이 아닙니다.
