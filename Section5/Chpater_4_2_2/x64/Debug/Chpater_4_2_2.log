@@ -1,0 +1,6 @@
+﻿  main_4_2_2.cpp
+  test.cpp
+  Generating Code...
+  LINK : C:\Users\user\Documents\GitHub\CPP_Study\Section5\x64\Debug\Chpater_4_2_2.exe not found or not built by the last incremental link; performing full link
+test.obj : error LNK2005: "int a" (?a@@3HA) already defined in main_4_2_2.obj
+C:\Users\user\Documents\GitHub\CPP_Study\Section5\x64\Debug\Chpater_4_2_2.exe : fatal error LNK1169: one or more multiply defined symbols found
