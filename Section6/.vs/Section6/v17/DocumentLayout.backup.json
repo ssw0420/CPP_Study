@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{017A81AB-DD86-42CF-B3D3-14628F2B00D9}|Chapter_5_3\\Chapter_5_3.vcxproj|C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section6\\Chapter_5_3\\main_5_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{017A81AB-DD86-42CF-B3D3-14628F2B00D9}|Chapter_5_3\\Chapter_5_3.vcxproj|solutionrelative:Chapter_5_3\\main_5_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2801D3DC-9E7A-492D-A4DE-25928419A3C5}|Chapter_5_4\\Chapter_5_4.vcxproj|C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section6\\Chapter_5_4\\main_5_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2801D3DC-9E7A-492D-A4DE-25928419A3C5}|Chapter_5_4\\Chapter_5_4.vcxproj|solutionrelative:Chapter_5_4\\main_5_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975CCF3A-7E1D-46F9-B67B-C806FC698A0A}|Chapter_5_6\\Chapter_5_6.vcxproj|C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section6\\Chapter_5_6\\main_5_6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{975CCF3A-7E1D-46F9-B67B-C806FC698A0A}|Chapter_5_6\\Chapter_5_6.vcxproj|solutionrelative:Chapter_5_6\\main_5_6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70714CED-9CC1-4565-AAB4-F63B540E2E00}|Chapter_5_2\\Chapter_5_2.vcxproj|C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section6\\Chapter_5_2\\main_5_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70714CED-9CC1-4565-AAB4-F63B540E2E00}|Chapter_5_2\\Chapter_5_2.vcxproj|solutionrelative:Chapter_5_2\\main_5_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE4B87D-8AF9-40AF-93DA-3C6FA30660EE}|Chapter_5_1\\Chapter_5_1.vcxproj|C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section6\\Chapter_5_1\\main_5_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ABE4B87D-8AF9-40AF-93DA-3C6FA30660EE}|Chapter_5_1\\Chapter_5_1.vcxproj|solutionrelative:Chapter_5_1\\main_5_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main_5_3.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section6\\Chapter_5_3\\main_5_3.cpp",
+              "RelativeDocumentMoniker": "Chapter_5_3\\main_5_3.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section6\\Chapter_5_3\\main_5_3.cpp",
+              "RelativeToolTip": "Chapter_5_3\\main_5_3.cpp",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-22T15:19:55.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main_5_4.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section6\\Chapter_5_4\\main_5_4.cpp",
+              "RelativeDocumentMoniker": "Chapter_5_4\\main_5_4.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section6\\Chapter_5_4\\main_5_4.cpp",
+              "RelativeToolTip": "Chapter_5_4\\main_5_4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-22T15:10:39.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main_5_6.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section6\\Chapter_5_6\\main_5_6.cpp",
+              "RelativeDocumentMoniker": "Chapter_5_6\\main_5_6.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section6\\Chapter_5_6\\main_5_6.cpp",
+              "RelativeToolTip": "Chapter_5_6\\main_5_6.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-22T15:07:12.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main_5_2.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section6\\Chapter_5_2\\main_5_2.cpp",
+              "RelativeDocumentMoniker": "Chapter_5_2\\main_5_2.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section6\\Chapter_5_2\\main_5_2.cpp",
+              "RelativeToolTip": "Chapter_5_2\\main_5_2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-22T14:22:12.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main_5_1.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section6\\Chapter_5_1\\main_5_1.cpp",
+              "RelativeDocumentMoniker": "Chapter_5_1\\main_5_1.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section6\\Chapter_5_1\\main_5_1.cpp",
+              "RelativeToolTip": "Chapter_5_1\\main_5_1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-22T14:09:12.47Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
