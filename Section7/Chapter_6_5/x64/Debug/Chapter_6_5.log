@@ -1,0 +1,6 @@
+﻿  main_6_5.cpp
+C:\Users\user\Documents\GitHub\CPP_Study\Section7\Chapter_6_5\main_6_5.cpp(49,12): warning C4311: 'type cast': pointer truncation from 'int *' to 'int'
+C:\Users\user\Documents\GitHub\CPP_Study\Section7\Chapter_6_5\main_6_5.cpp(49,12): warning C4302: 'type cast': truncation from 'int *' to 'int'
+  Chapter_6_5.vcxproj -> C:\Users\user\Documents\GitHub\CPP_Study\Section7\x64\Debug\Chapter_6_5.exe
+  'pwsh.exe'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+  배치 파일이 아닙니다.

@@ -1,0 +1,18 @@
+﻿  main_6_2.cpp
+C:\Users\user\Documents\GitHub\CPP_Study\Section7\Chapter_6_2\main_6_2.cpp(7,10): warning C4311: 'type cast': pointer truncation from 'int *[]' to 'int'
+C:\Users\user\Documents\GitHub\CPP_Study\Section7\Chapter_6_2\main_6_2.cpp(7,10): warning C4302: 'type cast': truncation from 'int *[]' to 'int'
+C:\Users\user\Documents\GitHub\CPP_Study\Section7\Chapter_6_2\main_6_2.cpp(24,10): warning C4311: 'type cast': pointer truncation from 'int *' to 'int'
+C:\Users\user\Documents\GitHub\CPP_Study\Section7\Chapter_6_2\main_6_2.cpp(24,10): warning C4302: 'type cast': truncation from 'int *' to 'int'
+C:\Users\user\Documents\GitHub\CPP_Study\Section7\Chapter_6_2\main_6_2.cpp(25,10): warning C4311: 'type cast': pointer truncation from 'int (*)[20]' to 'int'
+C:\Users\user\Documents\GitHub\CPP_Study\Section7\Chapter_6_2\main_6_2.cpp(25,10): warning C4302: 'type cast': truncation from 'int (*)[20]' to 'int'
+C:\Users\user\Documents\GitHub\CPP_Study\Section7\Chapter_6_2\main_6_2.cpp(26,10): warning C4311: 'type cast': pointer truncation from 'int *' to 'int'
+C:\Users\user\Documents\GitHub\CPP_Study\Section7\Chapter_6_2\main_6_2.cpp(26,10): warning C4302: 'type cast': truncation from 'int *' to 'int'
+C:\Users\user\Documents\GitHub\CPP_Study\Section7\Chapter_6_2\main_6_2.cpp(27,10): warning C4311: 'type cast': pointer truncation from 'int *' to 'int'
+C:\Users\user\Documents\GitHub\CPP_Study\Section7\Chapter_6_2\main_6_2.cpp(27,10): warning C4302: 'type cast': truncation from 'int *' to 'int'
+C:\Users\user\Documents\GitHub\CPP_Study\Section7\Chapter_6_2\main_6_2.cpp(28,10): warning C4311: 'type cast': pointer truncation from 'int *' to 'int'
+C:\Users\user\Documents\GitHub\CPP_Study\Section7\Chapter_6_2\main_6_2.cpp(28,10): warning C4302: 'type cast': truncation from 'int *' to 'int'
+C:\Users\user\Documents\GitHub\CPP_Study\Section7\Chapter_6_2\main_6_2.cpp(29,10): warning C4311: 'type cast': pointer truncation from 'int *' to 'int'
+C:\Users\user\Documents\GitHub\CPP_Study\Section7\Chapter_6_2\main_6_2.cpp(29,10): warning C4302: 'type cast': truncation from 'int *' to 'int'
+  Chapter_6_2.vcxproj -> C:\Users\user\Documents\GitHub\CPP_Study\Section7\x64\Debug\Chapter_6_2.exe
+  'pwsh.exe'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+  배치 파일이 아닙니다.
