@@ -1,0 +1,3 @@
+﻿  main_7_4.cpp
+C:\Users\user\Documents\GitHub\CPP_Study\Section8\Chapter_7_4\main_7_4.cpp(30,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Documents\GitHub\CPP_Study\Section8\Chapter_7_4\main_7_4.cpp(33,2): error C3892: 'ptr': you cannot assign to a variable that is const

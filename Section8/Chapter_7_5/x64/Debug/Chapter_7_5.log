@@ -1,0 +1,6 @@
+﻿  main_7_5.cpp
+C:\Users\user\Documents\GitHub\CPP_Study\Section8\Chapter_7_5\main_7_5.cpp(27,1): warning C4172: returning address of local variable or temporary : value
+C:\Users\user\Documents\GitHub\CPP_Study\Section8\Chapter_7_5\main_7_5.cpp(16,1): warning C4172: returning address of local variable or temporary : value
+  Chapter_7_5.vcxproj -> C:\Users\user\Documents\GitHub\CPP_Study\Section8\x64\Debug\Chapter_7_5.exe
+  'pwsh.exe'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+  배치 파일이 아닙니다.

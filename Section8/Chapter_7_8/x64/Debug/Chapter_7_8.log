@@ -1,0 +1,9 @@
+﻿  main_7_8.cpp
+C:\Users\user\Documents\GitHub\CPP_Study\Section8\Chapter_7_8\main_7_8.cpp(32,2): error C2668: 'printStr': ambiguous call to overloaded function
+      C:\Users\user\Documents\GitHub\CPP_Study\Section8\Chapter_7_8\main_7_8.cpp(19,6):
+      could be 'void printStr(char)'
+      C:\Users\user\Documents\GitHub\CPP_Study\Section8\Chapter_7_8\main_7_8.cpp(18,6):
+      or       'void printStr(std::string)'
+      C:\Users\user\Documents\GitHub\CPP_Study\Section8\Chapter_7_8\main_7_8.cpp(32,2):
+      while trying to match the argument list '()'
+  
