@@ -1,0 +1,5 @@
+﻿  main_8_5.cpp
+C:\Users\user\Documents\GitHub\CPP_Study\Section9\Chapter_8_5\main_8_5.cpp(24,2): error C2535: 'Student::Student(const std::string &)': member function already defined or declared
+      C:\Users\user\Documents\GitHub\CPP_Study\Section9\Chapter_8_5\main_8_5.cpp(18,2):
+      see declaration of 'Student::Student'
+  
