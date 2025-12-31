@@ -1,0 +1,7 @@
+﻿  main_9_10.cpp
+C:\Users\user\Documents\GitHub\CPP_Study\Section10\Chapter_9_10\main_9_10.cpp(49,16): error C2248: 'Fraction::Fraction': cannot access private member declared in class 'Fraction'
+      C:\Users\user\Documents\GitHub\CPP_Study\Section10\Chapter_9_10\main_9_10.cpp(12,2):
+      see declaration of 'Fraction::Fraction'
+      C:\Users\user\Documents\GitHub\CPP_Study\Section10\Chapter_9_10\main_9_10.cpp(6,7):
+      see declaration of 'Fraction'
+  

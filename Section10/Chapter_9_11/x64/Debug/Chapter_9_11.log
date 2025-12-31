@@ -1,0 +1,5 @@
+﻿  main_9_11.cpp
+C:\Users\user\Documents\GitHub\CPP_Study\Section10\Chapter_9_11\main_9_11.cpp(18,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Chapter_9_11.vcxproj -> C:\Users\user\Documents\GitHub\CPP_Study\Section10\x64\Debug\Chapter_9_11.exe
+  'pwsh.exe'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+  배치 파일이 아닙니다.

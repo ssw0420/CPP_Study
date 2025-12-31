@@ -1,0 +1,6 @@
+﻿  main_9_12.cpp
+C:\Users\user\Documents\GitHub\CPP_Study\Section10\Chapter_9_12\main_9_12.cpp(19,71): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\user\Documents\GitHub\CPP_Study\Section10\Chapter_9_12\main_9_12.cpp(72,14): warning C4018: '<': signed/unsigned mismatch
+  Chapter_9_12.vcxproj -> C:\Users\user\Documents\GitHub\CPP_Study\Section10\x64\Debug\Chapter_9_12.exe
+  'pwsh.exe'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+  배치 파일이 아닙니다.
