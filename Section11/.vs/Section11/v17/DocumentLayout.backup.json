@@ -3,56 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section11\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{50E55A53-339F-419E-934A-AE2FAE1B78B2}|Chapter_10_5\\Chapter_10_5.vcxproj|C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section11\\Chapter_10_5\\Worker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{50E55A53-339F-419E-934A-AE2FAE1B78B2}|Chapter_10_5\\Chapter_10_5.vcxproj|solutionrelative:Chapter_10_5\\Worker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50E55A53-339F-419E-934A-AE2FAE1B78B2}|Chapter_10_5\\Chapter_10_5.vcxproj|C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section11\\Chapter_10_5\\Worker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{50E55A53-339F-419E-934A-AE2FAE1B78B2}|Chapter_10_5\\Chapter_10_5.vcxproj|solutionrelative:Chapter_10_5\\Worker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50E55A53-339F-419E-934A-AE2FAE1B78B2}|Chapter_10_5\\Chapter_10_5.vcxproj|C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section11\\Chapter_10_5\\Timer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{50E55A53-339F-419E-934A-AE2FAE1B78B2}|Chapter_10_5\\Chapter_10_5.vcxproj|solutionrelative:Chapter_10_5\\Timer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50E55A53-339F-419E-934A-AE2FAE1B78B2}|Chapter_10_5\\Chapter_10_5.vcxproj|C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section11\\Chapter_10_5\\main_10_5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{50E55A53-339F-419E-934A-AE2FAE1B78B2}|Chapter_10_5\\Chapter_10_5.vcxproj|solutionrelative:Chapter_10_5\\main_10_5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0366F1CC-4D03-4FD5-96B6-06BC3EC31FC2}|Chapter_10_4\\Chapter_10_4.vcxproj|C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section11\\Chapter_10_4\\main_10_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0366F1CC-4D03-4FD5-96B6-06BC3EC31FC2}|Chapter_10_4\\Chapter_10_4.vcxproj|solutionrelative:Chapter_10_4\\main_10_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A76B34F-BD9E-4275-9C85-59F8755C73DE}|Chapter_10_3\\Chapter_10_3.vcxproj|C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section11\\Chapter_10_3\\Teacher.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0A76B34F-BD9E-4275-9C85-59F8755C73DE}|Chapter_10_3\\Chapter_10_3.vcxproj|solutionrelative:Chapter_10_3\\Teacher.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A76B34F-BD9E-4275-9C85-59F8755C73DE}|Chapter_10_3\\Chapter_10_3.vcxproj|C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section11\\Chapter_10_3\\Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0A76B34F-BD9E-4275-9C85-59F8755C73DE}|Chapter_10_3\\Chapter_10_3.vcxproj|solutionrelative:Chapter_10_3\\Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A76B34F-BD9E-4275-9C85-59F8755C73DE}|Chapter_10_3\\Chapter_10_3.vcxproj|C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section11\\Chapter_10_3\\Lecture.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0A76B34F-BD9E-4275-9C85-59F8755C73DE}|Chapter_10_3\\Chapter_10_3.vcxproj|solutionrelative:Chapter_10_3\\Lecture.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A76B34F-BD9E-4275-9C85-59F8755C73DE}|Chapter_10_3\\Chapter_10_3.vcxproj|C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section11\\Chapter_10_3\\main_10_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0A76B34F-BD9E-4275-9C85-59F8755C73DE}|Chapter_10_3\\Chapter_10_3.vcxproj|solutionrelative:Chapter_10_3\\main_10_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A431536B-3B1F-4335-92BD-7F0B656F79F0}|Chapter_10_2\\Chapter_10_2.vcxproj|C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section11\\Chapter_10_2\\Position2D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A431536B-3B1F-4335-92BD-7F0B656F79F0}|Chapter_10_2\\Chapter_10_2.vcxproj|solutionrelative:Chapter_10_2\\Position2D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A431536B-3B1F-4335-92BD-7F0B656F79F0}|Chapter_10_2\\Chapter_10_2.vcxproj|C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section11\\Chapter_10_2\\Monster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A431536B-3B1F-4335-92BD-7F0B656F79F0}|Chapter_10_2\\Chapter_10_2.vcxproj|solutionrelative:Chapter_10_2\\Monster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A431536B-3B1F-4335-92BD-7F0B656F79F0}|Chapter_10_2\\Chapter_10_2.vcxproj|C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section11\\Chapter_10_2\\main_10_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A431536B-3B1F-4335-92BD-7F0B656F79F0}|Chapter_10_2\\Chapter_10_2.vcxproj|solutionrelative:Chapter_10_2\\main_10_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85940DE0-B9E2-4F19-9BBD-7741277AEC68}|Chapter_10_1\\Chapter_10_1.vcxproj|C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section11\\Chapter_10_1\\main_10_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{85940DE0-B9E2-4F19-9BBD-7741277AEC68}|Chapter_10_1\\Chapter_10_1.vcxproj|solutionrelative:Chapter_10_1\\main_10_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{0E218CB6-CC31-42F7-B13D-AB439F0C856A}|Chapter_10_6\\Chapter_10_6.vcxproj|C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section11\\Chapter_10_6\\main_10_6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E218CB6-CC31-42F7-B13D-AB439F0C856A}|Chapter_10_6\\Chapter_10_6.vcxproj|solutionrelative:Chapter_10_6\\main_10_6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -67,167 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Worker.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section11\\Chapter_10_5\\Worker.cpp",
-              "RelativeDocumentMoniker": "Chapter_10_5\\Worker.cpp",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section11\\Chapter_10_5\\Worker.cpp",
-              "RelativeToolTip": "Chapter_10_5\\Worker.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Title": "main_10_6.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section11\\Chapter_10_6\\main_10_6.cpp",
+              "RelativeDocumentMoniker": "Chapter_10_6\\main_10_6.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section11\\Chapter_10_6\\main_10_6.cpp",
+              "RelativeToolTip": "Chapter_10_6\\main_10_6.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-01T16:36:46.495Z",
+              "WhenOpened": "2026-01-01T16:49:43.802Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Worker.h",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section11\\Chapter_10_5\\Worker.h",
-              "RelativeDocumentMoniker": "Chapter_10_5\\Worker.h",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section11\\Chapter_10_5\\Worker.h*",
-              "RelativeToolTip": "Chapter_10_5\\Worker.h*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-01-01T16:35:09.687Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Timer.h",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section11\\Chapter_10_5\\Timer.h",
-              "RelativeDocumentMoniker": "Chapter_10_5\\Timer.h",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section11\\Chapter_10_5\\Timer.h",
-              "RelativeToolTip": "Chapter_10_5\\Timer.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-01-01T16:33:56.87Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "main_10_5.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section11\\Chapter_10_5\\main_10_5.cpp",
-              "RelativeDocumentMoniker": "Chapter_10_5\\main_10_5.cpp",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section11\\Chapter_10_5\\main_10_5.cpp",
-              "RelativeToolTip": "Chapter_10_5\\main_10_5.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-01T16:30:37.919Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "main_10_4.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section11\\Chapter_10_4\\main_10_4.cpp",
-              "RelativeDocumentMoniker": "Chapter_10_4\\main_10_4.cpp",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section11\\Chapter_10_4\\main_10_4.cpp",
-              "RelativeToolTip": "Chapter_10_4\\main_10_4.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAqwCMAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-01T15:56:45.022Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Lecture.h",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section11\\Chapter_10_3\\Lecture.h",
-              "RelativeDocumentMoniker": "Chapter_10_3\\Lecture.h",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section11\\Chapter_10_3\\Lecture.h",
-              "RelativeToolTip": "Chapter_10_3\\Lecture.h",
-              "ViewState": "AgIAACwAAAAAAAAAAAAswEYAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-01-01T13:34:26.162Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Student.h",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section11\\Chapter_10_3\\Student.h",
-              "RelativeDocumentMoniker": "Chapter_10_3\\Student.h",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section11\\Chapter_10_3\\Student.h",
-              "RelativeToolTip": "Chapter_10_3\\Student.h",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAqwCkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-01-01T13:27:35.717Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Teacher.h",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section11\\Chapter_10_3\\Teacher.h",
-              "RelativeDocumentMoniker": "Chapter_10_3\\Teacher.h",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section11\\Chapter_10_3\\Teacher.h",
-              "RelativeToolTip": "Chapter_10_3\\Teacher.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-01-01T13:24:47.785Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "main_10_3.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section11\\Chapter_10_3\\main_10_3.cpp",
-              "RelativeDocumentMoniker": "Chapter_10_3\\main_10_3.cpp",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section11\\Chapter_10_3\\main_10_3.cpp",
-              "RelativeToolTip": "Chapter_10_3\\main_10_3.cpp",
-              "ViewState": "AgIAADAAAAAAAAAAAAAqwFQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-01T12:25:47.609Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Position2D.h",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section11\\Chapter_10_2\\Position2D.h",
-              "RelativeDocumentMoniker": "Chapter_10_2\\Position2D.h",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section11\\Chapter_10_2\\Position2D.h",
-              "RelativeToolTip": "Chapter_10_2\\Position2D.h",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAqwCYAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-01-01T11:57:46.079Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Monster.h",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section11\\Chapter_10_2\\Monster.h",
-              "RelativeDocumentMoniker": "Chapter_10_2\\Monster.h",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section11\\Chapter_10_2\\Monster.h",
-              "RelativeToolTip": "Chapter_10_2\\Monster.h",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAwAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-01-01T11:47:30.278Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "main_10_2.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section11\\Chapter_10_2\\main_10_2.cpp",
-              "RelativeDocumentMoniker": "Chapter_10_2\\main_10_2.cpp",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section11\\Chapter_10_2\\main_10_2.cpp",
-              "RelativeToolTip": "Chapter_10_2\\main_10_2.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-01T11:47:11.648Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "main_10_1.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section11\\Chapter_10_1\\main_10_1.cpp",
-              "RelativeDocumentMoniker": "Chapter_10_1\\main_10_1.cpp",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section11\\Chapter_10_1\\main_10_1.cpp",
-              "RelativeToolTip": "Chapter_10_1\\main_10_1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-01T11:32:35.541Z"
             }
           ]
         }
