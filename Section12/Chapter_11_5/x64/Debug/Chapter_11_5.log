@@ -1,0 +1,7 @@
+﻿  main_11_5.cpp
+C:\Users\user\Documents\GitHub\CPP_Study\Section12\Chapter_11_5\main_11_5.cpp(22,3): error C2248: 'Base::m_private': cannot access private member declared in class 'Base'
+      C:\Users\user\Documents\GitHub\CPP_Study\Section12\Chapter_11_5\main_11_5.cpp(12,6):
+      see declaration of 'Base::m_private'
+      C:\Users\user\Documents\GitHub\CPP_Study\Section12\Chapter_11_5\main_11_5.cpp(5,7):
+      see declaration of 'Base'
+  
