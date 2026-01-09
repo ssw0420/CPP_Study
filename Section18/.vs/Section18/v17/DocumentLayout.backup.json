@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3DC3901-0616-43B7-9EE9-E5E4FB746167}|Chapter_17_5\\Chapter_17_5.vcxproj|C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section18\\Chapter_17_5\\main_17_5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3DC3901-0616-43B7-9EE9-E5E4FB746167}|Chapter_17_5\\Chapter_17_5.vcxproj|solutionrelative:Chapter_17_5\\main_17_5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7609EE2F-005C-4D1B-AE2A-C0F45B9F61AD}|Chapter_17_4\\Chapter_17_4.vcxproj|C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section18\\Chapter_17_4\\main_17_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7609EE2F-005C-4D1B-AE2A-C0F45B9F61AD}|Chapter_17_4\\Chapter_17_4.vcxproj|solutionrelative:Chapter_17_4\\main_17_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1DD00B7-3392-4B2B-BC83-C266ED827405}|Chapter_17_3\\Chapter_17_3.vcxproj|C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section18\\Chapter_17_3\\main_17_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F1DD00B7-3392-4B2B-BC83-C266ED827405}|Chapter_17_3\\Chapter_17_3.vcxproj|solutionrelative:Chapter_17_3\\main_17_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF04C788-759A-40DF-803F-A8102C39D9FF}|Chapter_17_2\\Chapter_17_2.vcxproj|C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section18\\Chapter_17_2\\main_17_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AF04C788-759A-40DF-803F-A8102C39D9FF}|Chapter_17_2\\Chapter_17_2.vcxproj|solutionrelative:Chapter_17_2\\main_17_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E80BC19F-CC75-400A-9FA1-68AB4F7D3859}|Chapter_17_1\\Chapter_17_1.vcxproj|C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section18\\Chapter_17_1\\main_17_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E80BC19F-CC75-400A-9FA1-68AB4F7D3859}|Chapter_17_1\\Chapter_17_1.vcxproj|solutionrelative:Chapter_17_1\\main_17_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main_17_5.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section18\\Chapter_17_5\\main_17_5.cpp",
+              "RelativeDocumentMoniker": "Chapter_17_5\\main_17_5.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section18\\Chapter_17_5\\main_17_5.cpp",
+              "RelativeToolTip": "Chapter_17_5\\main_17_5.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-09T07:56:35.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main_17_4.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section18\\Chapter_17_4\\main_17_4.cpp",
+              "RelativeDocumentMoniker": "Chapter_17_4\\main_17_4.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section18\\Chapter_17_4\\main_17_4.cpp",
+              "RelativeToolTip": "Chapter_17_4\\main_17_4.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-09T07:30:48.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main_17_3.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section18\\Chapter_17_3\\main_17_3.cpp",
+              "RelativeDocumentMoniker": "Chapter_17_3\\main_17_3.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section18\\Chapter_17_3\\main_17_3.cpp",
+              "RelativeToolTip": "Chapter_17_3\\main_17_3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-08T11:02:20.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main_17_2.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section18\\Chapter_17_2\\main_17_2.cpp",
+              "RelativeDocumentMoniker": "Chapter_17_2\\main_17_2.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section18\\Chapter_17_2\\main_17_2.cpp",
+              "RelativeToolTip": "Chapter_17_2\\main_17_2.cpp",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAFkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-08T10:32:45.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main_17_1.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section18\\Chapter_17_1\\main_17_1.cpp",
+              "RelativeDocumentMoniker": "Chapter_17_1\\main_17_1.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section18\\Chapter_17_1\\main_17_1.cpp",
+              "RelativeToolTip": "Chapter_17_1\\main_17_1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-07T16:32:07.532Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
