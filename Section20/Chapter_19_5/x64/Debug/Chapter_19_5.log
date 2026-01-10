@@ -1,0 +1,6 @@
+﻿  main_19_5.cpp
+C:\Users\user\Documents\GitHub\CPP_Study\Section20\Chapter_19_5\main_19_5.cpp(74,8): warning C4858: discarding return value: The result of 'std::async' should be stored in a variable. If the return value is discarded, the temporary 'std::future' is destroyed, waiting for an async result or evaluating a deferred result, thus defeating the purpose of 'std::async'.
+C:\Users\user\Documents\GitHub\CPP_Study\Section20\Chapter_19_5\main_19_5.cpp(80,8): warning C4858: discarding return value: The result of 'std::async' should be stored in a variable. If the return value is discarded, the temporary 'std::future' is destroyed, waiting for an async result or evaluating a deferred result, thus defeating the purpose of 'std::async'.
+  Chapter_19_5.vcxproj -> C:\Users\user\Documents\GitHub\CPP_Study\Section20\x64\Debug\Chapter_19_5.exe
+  'pwsh.exe'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+  배치 파일이 아닙니다.
