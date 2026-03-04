@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Chapter_20_5\\Chapter_20_5.vcxproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Chapter_20_5_Client\\Chapter_20_5_Client.vcxproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

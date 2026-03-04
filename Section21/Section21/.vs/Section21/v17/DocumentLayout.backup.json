@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section21\\Section21\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D34D1B4-E3A4-4F50-B68A-BC77FEE69C19}|Chapter_20_5\\Chapter_20_5.vcxproj|C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section21\\Section21\\Chapter_20_5\\Chapter_20_5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D34D1B4-E3A4-4F50-B68A-BC77FEE69C19}|Chapter_20_5\\Chapter_20_5.vcxproj|solutionrelative:Chapter_20_5\\Chapter_20_5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Chapter_20_5.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section21\\Section21\\Chapter_20_5\\Chapter_20_5.cpp",
+              "RelativeDocumentMoniker": "Chapter_20_5\\Chapter_20_5.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\CPP_Study\\Section21\\Section21\\Chapter_20_5\\Chapter_20_5.cpp",
+              "RelativeToolTip": "Chapter_20_5\\Chapter_20_5.cpp",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAzwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-04T11:39:47.721Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
